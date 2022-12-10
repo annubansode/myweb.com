@@ -1,0 +1,79 @@
+body{
+    margin: 0%;
+    padding: 0%;
+    font-family: sans-serif;
+background-image: url(mountains-best-for-desktop-background-wallpaper-preview.jpg);
+width: 100%;
+    height: 109vh;
+background-size: cover;
+background-position: center;
+}
+.Signup {
+    width: 350px;
+    box-shadow:0 0 3px 0 rgba(0, 0, 0, 0.3) ;
+    background: rgb(255, 255, 255);
+    margin: 8% auto 0;
+    padding: 20px;
+    text-align: center;
+}
+.input-box{
+width: 70%;
+padding: 10px;
+margin: 10px;
+border-radius:20px ;
+border: 1px solid #1da9d3;
+outline: none;
+background-color: #e7eaec;
+}
+button{
+    width: 200px;
+    height: 40px;
+    padding: 10px
+    margin: 10px 0;
+    border: radius 20px;
+    font-size: 15px;
+    border: 1px;
+    outline:none;
+    cursor:pointer;
+    color: #000000;
+}
+.Submit-btn{
+background-color: #158add;
+}
+.Goggle-btn{
+    margin: 5px;
+    width: 70%;
+    height: 35px;
+border-radius: 10px;
+background-color:#ffffff;
+border: 1px solid rgb(27, 27, 27);
+}
+a{
+text-decoration: none;
+}
+hr{
+margin-top: 30px;
+width: 80%;
+}
+.or{
+background: #fff;
+width: 30px;
+margin: -19px auto 10px;
+}
+.google-img{
+    height: 20px;
+    width: 20px;
+    cursor: pointer;
+    
+}
+span{
+    margin: -10px;
+    padding: -30px;
+    position: center;
+    right:10%;
+    cursor: pointer;
+    
+}
+
+
+
